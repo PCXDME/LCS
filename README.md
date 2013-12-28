@@ -1,8 +1,8 @@
 LCS
 ===
 **Requirement:**
-+Python 3
-+Pyside
++ Python 3
++ Pyside
 
 ![alt tag](https://raw.github.com/PCXDME/LCS/master/ss/Main.png)
 LCS is a Logic Circuit Simulator used for my python project Y1S1 at KMITL IC SE
