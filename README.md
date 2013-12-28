@@ -20,6 +20,6 @@ LCS is a Logic Circuit Simulator used for my python project Y1S1 at KMITL IC SE
 ![alt tag](https://raw.github.com/PCXDME/LCS/master/ss/SOUND.png)
 
 <dl>
-	<dt>Can turn Philips hue on or off with specified color:</dt>
+	<dt>Can turn Philips hue on or off with selectable color:</dt>
 </dl>
 ![alt tag](https://raw.github.com/PCXDME/LCS/master/ss/PHUE.png)
